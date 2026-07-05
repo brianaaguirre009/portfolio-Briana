@@ -57,7 +57,7 @@ During my academic and practical training, I developed marketing and communicati
 
 ## 📄 CV
 
-You can download my CV here:  [(https://github.com/brianaaguirre009/portfolio-Briana/blob/0758eedc85f3b74a8e440a0f3a970f429ef1fd7c/CV_Briana.pdf)]
+You can download my CV here:  [https://github.com/brianaaguirre009/portfolio-Briana/blob/eca7650618b2d5aaea6b0f0efc371c778842febd/CV_BrianaA.pdf]
 
 ---
 
